@@ -1,0 +1,1 @@
+Ja tinha instalado o git, realizei todos os comandos pelo git bash
